@@ -3,7 +3,7 @@ The dataset has been introduced in the following papers:
 
 1. [Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts]()
 2. [A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks]()
-3. [Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum]()
+3. [Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)
 
 
 # About Dataset
