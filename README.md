@@ -1,5 +1,11 @@
 # CBRS KPI and Weather Datasets
-The dataset has been introduced in our IEEE TAP 24 paper: [A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks]()
+The dataset has been introduced in the following papers:
+
+1. [Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts]()
+2. [A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks]()
+3. [Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum]()
+
+
 # About Dataset
 ## Context
 The release of the 150 MHz-wide Citizens Broadband Radio Service (CBRS) spectrum (3550-3700 MHz within the 3.5 GHz range) has created opportunities for unlicensed users and enterprise organizations to establish their own private mobile networks. This spectrum is utilized in sectors such as healthcare, education, smart cities, warehousing, and industrial operations, where high security, reliable performance, and robust network control are essential and cannot always be achieved through commercial mobile carriers. Received Signal Strength (RSS), which measures both radiation and signal attenuation, is a vital metric for assessing wireless communication performance. Significant drops in signal strength can lead to link failures, and fluctuations can affect the quality of service. Therefore, developing a highly accurate and efficient signal strength prediction model is crucial for maintaining network reliability in 5G and beyond 5G (B5G) networks.
