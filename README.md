@@ -59,7 +59,8 @@ If you find this data helpful, please cite:
 
 	Citation1
 	Citation2
-	Citation3 Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints. [Bibtex:](@article{dash2024experimental,
+	Citation3 Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints. 
+ [Bibtex](@article{dash2024experimental,
   title={Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum},
   author={Dash, Biswajit Kumar and Caezza, Joseph A and Malandra, Filippo},
   journal={Authorea Preprints},
