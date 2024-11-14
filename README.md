@@ -57,13 +57,7 @@ More details on current and past projects on related topics are available on [La
 ## Citing the paper
 If you find this data helpful, please cite:
 
-	Citation1
-	Citation2
-	Citation3 Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints. 
- [Bibtex](@article{dash2024experimental,
-  title={Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum},
-  author={Dash, Biswajit Kumar and Caezza, Joseph A and Malandra, Filippo},
-  journal={Authorea Preprints},
-  year={2024},
-  publisher={Authorea}
-})
+	Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
+	Devasenapathy, K., Caezza, J. A., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
+	Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints.
+ 	Dash, B. K., Caezza, J. A., & Malandra, F. (2023, November). Experimental Network Performance Analysis from a CBRS-based Private Mobile Network. In 2023 IEEE Future Networks World Forum (FNWF) (pp. 1-6). IEEE.
