@@ -12,26 +12,27 @@ The release of the 150 MHz-wide Citizens Broadband Radio Service (CBRS) spectrum
 ## Content
 ### KPI Dataset
 The dataset contains Key Performance Indicator (KPI) data, including Reference Signal Received Power (RSRP), Signal-to-Interference-plus-Noise Ratio (SINR), Reference Signal Received Quality (RSRQ), Received Signal Strength Indicator (RSSI) from a CBRS-based private LTE network deployed in the Fruitbelt neighborhood of Buffalo, NY. Data was collected at 32 static locations using Customer Premises Equipment (CPE) transceivers mounted on exterior walls of homes to communicate with the Base Station (BS). The BS has four directive antennas, and the CPEs that collect data have at most four antennas. The data collection spanned over two years, from June 20, 2022, to August 20, 2024, with an hourly sampling rate. Key features of the KPI dataset include:
+
 -productclass: the series of the CPE antenna, such as Telrad CPE series
 -serial: the serial number assigned to the CPE antenna, unique for each device
 -coll_time_round: data collection time
-result_id: a unique identifier for the result entry
-model: model number of the CPE, indicating the specific type or variant of the equipment
-imsi: International Mobile Subscriber Identity (IMSI) number
-ue_wan_ip: IP address assigned to the CPE device on the WAN (Wide Area Network).
-ue_up_time: uptime of the CPE device, indicating how long it has been operational since the last reset/powered on
-serving_enb_id: identifier for the eNodeB (Base Station) to which the CPE is connected
-tx_power: transmission power of the CPE, measured in dBm
-rsrp0, rsrp1, rsrp2, rsrp3: Reference Signal Received Power (RSRP) for four antennas/receivers in the CPE device, measured in dBm
-mean_AvgRsrp: average RSRP value calculated from the individual RSRP measurements
-sinr0, sinr1, sinr2, sinr3: Signal-to-Interference-plus-Noise Ratio (SINR) for four antennas/receivers in the CPE device, measured in dB
-mean_AvgSinr: average SINR value calculated from the individual SINR measurements
-rsrq, rsrq1, rsrq2, rsrq3: Reference Signal Received Quality (RSRQ) for for four antennas/receivers in the CPE device, measured in dB
-mean_AvgRsrq: average RSRQ value calculated from the individual RSRQ measurements
-rssi, rssi0, rssi1, rssi2, rssi3: Received Signal Strength Indicator (RSSI), for four antennas/receivers in the CPE device, measured in dBm
-mean_AvgRssi: average RSSI value calculated from the individual RSSI measurements
-distance: distance between the CPE and the serving base station. Note: Ignore this parameter; rather, use **sensor_distance**.
-sensor_distance: distance between the CPE and the serving base station, measured in Kilometer (Km)
+-result_id: a unique identifier for the result entry
+-model: model number of the CPE, indicating the specific type or variant of the equipment
+-imsi: International Mobile Subscriber Identity (IMSI) number
+-ue_wan_ip: IP address assigned to the CPE device on the WAN (Wide Area Network).
+-ue_up_time: uptime of the CPE device, indicating how long it has been operational since the last reset/powered on
+-serving_enb_id: identifier for the eNodeB (Base Station) to which the CPE is connected
+-tx_power: transmission power of the CPE, measured in dBm
+-rsrp0, rsrp1, rsrp2, rsrp3: Reference Signal Received Power (RSRP) for four antennas/receivers in the CPE device, measured in dBm
+-mean_AvgRsrp: average RSRP value calculated from the individual RSRP measurements
+-sinr0, sinr1, sinr2, sinr3: Signal-to-Interference-plus-Noise Ratio (SINR) for four antennas/receivers in the CPE device, measured in dB
+-mean_AvgSinr: average SINR value calculated from the individual SINR measurements
+-rsrq, rsrq1, rsrq2, rsrq3: Reference Signal Received Quality (RSRQ) for for four antennas/receivers in the CPE device, measured in dB
+-mean_AvgRsrq: average RSRQ value calculated from the individual RSRQ measurements
+-rssi, rssi0, rssi1, rssi2, rssi3: Received Signal Strength Indicator (RSSI), for four antennas/receivers in the CPE device, measured in dBm
+-mean_AvgRssi: average RSSI value calculated from the individual RSSI measurements
+-distance: distance between the CPE and the serving base station. Note: Ignore this parameter; rather, use **sensor_distance**.
+-sensor_distance: distance between the CPE and the serving base station, measured in Kilometer (Km)
 
 
 - mean_Rsrp: hourly mean RSRP in dBm
