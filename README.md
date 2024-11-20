@@ -1,4 +1,4 @@
-s# CBRS KPI and Weather Datasets
+# CBRS KPI and Weather Datasets
 **The dataset has been introduced in the following papers**. If you find this data helpful, please cite:
 
 
