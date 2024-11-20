@@ -3,8 +3,8 @@
 
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
-[[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]()]
-BibTeX entry:
+[[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)]
+[[Bibtex]()] BibTeX entry:
 ```bibtex
 @article{dash2024propagation,
   title={Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts},
