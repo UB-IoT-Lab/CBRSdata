@@ -11,16 +11,19 @@ The dataset has been introduced in the following papers:
 The release of the 150 MHz-wide Citizens Broadband Radio Service (CBRS) spectrum (3550-3700 MHz within the 3.5 GHz range) has created opportunities for unlicensed users and enterprise organizations to establish their own private mobile networks. This spectrum is utilized in sectors such as healthcare, education, smart cities, warehousing, and industrial operations, where high security, reliable performance, and robust network control are essential and cannot always be achieved through commercial mobile carriers.
 ## Content
 ### Network KPI Dataset
-The dataset contains Key Performance Indicator (KPI) data, including Reference Signal Received Power (RSRP), Signal-to-Interference-plus-Noise Ratio (SINR), Reference Signal Received Quality (RSRQ), Received Signal Strength Indicator (RSSI) from a CBRS-based private LTE network deployed in the Fruitbelt neighborhood of Buffalo, NY. Data was collected at 32 static locations using Customer Premises Equipment (CPE) transceivers mounted on exterior walls of homes to communicate with the Base Station (BS). The BS has four directive antennas, and the CPEs that collect data have at most four antennas. The data collection spanned over two years, from June 20, 2022, to August 20, 2024, with an hourly sampling rate. Key features of the KPI dataset include:
+The "KPI" folder contains the network Key Performance Indicator (KPI) dataset from two CBRS deployments in NY, USA: kpi_data_buffalo.zip KPI data from a CBRS network deployed in downtown Buffalo, NY, and kpi_data_elmira.csv KPI data from another CBRS network deployed in Elmira, NY. 
 
-- productclass: the series of the CPE antenna, such as Telrad CPE series
+#### Buffalo KPI Dataset
+The kpi_data_buffalo.zip dataset contains KPI data, including Reference Signal Received Power (RSRP), Signal-to-Interference-plus-Noise Ratio (SINR), Reference Signal Received Quality (RSRQ), Received Signal Strength Indicator (RSSI) from a CBRS-based private LTE network deployed in the Fruitbelt neighborhood of Buffalo, NY. Data was collected at 32 static locations using Customer Premises Equipment (CPE) transceivers mounted on exterior walls of homes to communicate with the Base Station (BS). The BS has four directive antennas, and the CPEs that collect data have at most four antennas. The data collection spanned over two years, from June 20, 2022, to August 20, 2024, with an hourly sampling rate. Key features of the KPI dataset include:
+
+- productclass: the series of CPE antenna, such as the Telrad CPE series
 - serial: the serial number assigned to the CPE antenna, unique for each device
 - coll_time_round: data collection time
 - result_id: a unique identifier for the result entry
 - model: model number of the CPE, indicating the specific type or variant of the equipment
 - imsi: International Mobile Subscriber Identity (IMSI) number
 - ue_wan_ip: IP address assigned to the CPE device on the WAN (Wide Area Network).
-- ue_up_time: uptime of the CPE device, indicating how long it has been operational since the last reset/powered on
+- ue_up_time: uptime of the CPE device, indicating how long it has been operational since the last reset/powered-on
 - serving_enb_id: identifier for the eNodeB (Base Station) to which the CPE is connected
 - tx_power: transmission power of the CPE, measured in dBm
 - rsrp0, rsrp1, rsrp2, rsrp3: Reference Signal Received Power (RSRP) for four antennas/receivers in the CPE device, measured in dBm
@@ -32,7 +35,21 @@ The dataset contains Key Performance Indicator (KPI) data, including Reference S
 - rssi, rssi0, rssi1, rssi2, rssi3: Received Signal Strength Indicator (RSSI), for four antennas/receivers in the CPE device, measured in dBm
 - mean_AvgRssi: average RSSI value calculated from the individual RSSI measurements
 - distance: distance between the CPE and the serving base station. Note: Ignore this parameter; rather, use **sensor_distance**.
-- sensor_distance: distance between the CPE and the serving base station, measured in Kilometer (Km)
+- sensor_distance: distance between the CPE and the serving base station, measured in Kilometer (km)
+
+#### Elmira KPI Dataset
+The kpi_data_elmira.csv dataset contains Reference Signal Received Power (RSRP) data from a CBRS-based private LTE network deployed in the City of Elmira, NY. Data was collected at 12 static locations using CPE transceivers mounted on exterior walls of homes to communicate with the Base Station (BS). The data collection spanned over two years, from March 7, 2024, to November 11, 2024 (Continuing), with an hourly sampling rate. Key features of the KPI dataset include:
+
+- coll_time_round: data collection time
+- Date Time (RAW): Serial date number representing the exact moment of data collectio.
+- RSRP_Wo_Round: The raw, unrounded Reference Signal Received Power(RSRP) measured in dBm. Example: -79.2368421052632 dBm.
+- mean_AvgRsrp: The RSRP value after rounding to the nearest decimal places. Example: -79.2368 dBm.
+- Downtime: The percentage of time the antenna was non-operational.
+- Downtime (RAW): The exact downtime count.
+- Coverage: The percentage of time the antenna experienced signal coverage.
+- Coverage (RAW): The numerical value representing the antenna experienced signal coverage.
+- serial: The unique serial number of the CPE antenna.
+- sensor_distance: The distance in km from the CPE antenna to a specified reference point. Example: 0.05685216 meters.
 
 ### Weather Dataset
 The weather dataset contains historical weather records obtained from [Oikolab](https://oikolab.com/) for the same location and time period (hourly resolution), which includes:
