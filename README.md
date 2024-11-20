@@ -3,6 +3,18 @@
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]()]
+BibTeX entry:
+```bibtex
+@article{your_paper_key,
+  author    = {Your Name and Co-authors},
+  title     = {Title of the Paper},
+  journal   = {Journal/Conference Name},
+  year      = {Year},
+  volume    = {Volume},
+  number    = {Number},
+  pages     = {Pages},
+  doi       = {DOI link}
+}
 
 > Devasenapathy, K., Dash, B. K., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173198458.82259958/v1)] [[Bibtex]()]
