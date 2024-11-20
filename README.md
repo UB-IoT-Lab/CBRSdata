@@ -5,26 +5,54 @@
 [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]()]
 BibTeX entry:
 ```bibtex
-@article{your_paper_key,
-  author    = {Your Name and Co-authors},
-  title     = {Title of the Paper},
-  journal   = {Journal/Conference Name},
-  year      = {Year},
-  volume    = {Volume},
-  number    = {Number},
-  pages     = {Pages},
-  doi       = {DOI link}
+@article{dash2024propagation,
+  title={Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts},
+  author={Dash, Biswajit Kumar and Caezza, Joseph A and Malandra, Filippo},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea}
 }
+```
 
 > Devasenapathy, K., Dash, B. K., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173198458.82259958/v1)] [[Bibtex]()]
+BibTeX entry:
+```bibtex
+@article{dash2024propagation,
+  title={A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks},
+  author={Devasenapathy, K. and Dash, Biswajit Kumar and Malandra, Filippo},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea}
+}
+```
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)] [[Bibtex]()]
+BibTeX entry:
+```bibtex
+@article{dash2024experimental,
+  title={Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum},
+  author={Dash, Biswajit Kumar and Caezza, Joseph A and Malandra, Filippo},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea}
+}
+```
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2023, November). Experimental Network Performance Analysis from a CBRS-based Private Mobile Network. In 2023 IEEE Future Networks World Forum (FNWF) (pp. 1-6). IEEE.
 [[arXiv](https://doi.org/10.1109/FNWF58287.2023.10520385)] [[Bibtex]()]
-  
+BibTeX entry:
+```bibtex
+@inproceedings{dash2023experimental,
+  title={Experimental Network Performance Analysis from a CBRS-based Private Mobile Network},
+  author={Dash, Biswajit Kumar and Caezza, Joseph A and Malandra, Filippo},
+  booktitle={2023 IEEE Future Networks World Forum (FNWF)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}
+```
 
 # About Dataset
 ## Context
