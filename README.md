@@ -68,8 +68,7 @@ The weather dataset contains historical weather records obtained from [Oikolab](
 - rainfall (mm): rainfall, in mm
 
 ## Acknowledgements
-This work was supported by the Center of Excellence in Materials
-Informatics (CMI) at the University at Buffalo, and by Integrated Systems.
+This project was supported by the Center of Excellence in Materials Informatics (CMI) at the University at Buffalo, and by Integrated Systems.
 
 More details on current and past projects on related topics are available on [Lab Site](https://www.acsu.buffalo.edu/~filippom/).
 ## Citing the paper
