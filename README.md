@@ -16,7 +16,7 @@ The dataset has been introduced in the following papers. If you find this data h
 [[arXiv](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)] [[Bibtex]()]
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2023, November). Experimental Network Performance Analysis from a CBRS-based Private Mobile Network. In 2023 IEEE Future Networks World Forum (FNWF) (pp. 1-6). IEEE.
-[[arXiv](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)] [[Bibtex]()]
+[[arXiv](https://doi.org/10.1109/FNWF58287.2023.10520385)] [[Bibtex]()]
   
 
 # About Dataset
