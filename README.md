@@ -1,6 +1,7 @@
 # CBRS KPI and Weather Datasets
 **The dataset has been introduced in the following papers**. If you find this data helpful, please cite:
 
+
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]()]
 BibTeX entry:
@@ -18,7 +19,7 @@ BibTeX entry:
 [[arXiv](https://doi.org/10.36227/techrxiv.173198458.82259958/v1)] [[Bibtex]()]
 BibTeX entry:
 ```bibtex
-@article{dash2024propagation,
+@article{Devasenapathy2024machine,
   title={A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks},
   author={Devasenapathy, K. and Dash, Biswajit Kumar and Malandra, Filippo},
   journal={Authorea Preprints},
