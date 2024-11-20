@@ -1,10 +1,23 @@
 # CBRS KPI and Weather Datasets
-The dataset has been introduced in the following papers:
+The dataset has been introduced in the following papers. If you find this data helpful, please cite:
 
 1. [Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)
 2. [A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks](https://www.techrxiv.org/users/692934/articles/1239831-a-machine-learning-framework-for-weather-based-signal-strength-prediction-in-private-lte-5g-networks)
 3. [Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)
+   
 
+> Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
+[[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]()]
+
+> Devasenapathy, K., Dash, B. K., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
+[[arXiv](https://doi.org/10.36227/techrxiv.173198458.82259958/v1)] [[Bibtex]()]
+
+> Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints.
+[[arXiv](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)] [[Bibtex]()]
+
+> Dash, B. K., Caezza, J. A., & Malandra, F. (2023, November). Experimental Network Performance Analysis from a CBRS-based Private Mobile Network. In 2023 IEEE Future Networks World Forum (FNWF) (pp. 1-6). IEEE.
+[[arXiv](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)] [[Bibtex]()]
+  
 
 # About Dataset
 ## Context
@@ -71,18 +84,3 @@ The weather dataset contains historical weather records obtained from [Oikolab](
 This project was supported by the Center of Excellence in Materials Informatics (CMI) at the University at Buffalo, and by Integrated Systems.
 
 More details on current and past projects on related topics are available on [Lab Site](https://www.acsu.buffalo.edu/~filippom/).
-## Citing the paper
-If you find this data helpful, please cite:
-
-1.
-
-	Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
-2.
-
-	Devasenapathy, K., Caezza, J. A., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
-3. 
-
-  	Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints.
-4.
-
-  	Dash, B. K., Caezza, J. A., & Malandra, F. (2023, November). Experimental Network Performance Analysis from a CBRS-based Private Mobile Network. In 2023 IEEE Future Networks World Forum (FNWF) (pp. 1-6). IEEE.
