@@ -11,7 +11,8 @@ The dataset has been introduced in the following papers:
 The release of the 150 MHz-wide Citizens Broadband Radio Service (CBRS) spectrum (3550-3700 MHz within the 3.5 GHz range) has created opportunities for unlicensed users and enterprise organizations to establish their own private mobile networks. This spectrum is utilized in sectors such as healthcare, education, smart cities, warehousing, and industrial operations, where high security, reliable performance, and robust network control are essential and cannot always be achieved through commercial mobile carriers.
 ## Content
 ### Network KPI Dataset
-The "KPI" folder contains the network Key Performance Indicator (KPI) dataset from two CBRS deployments in NY, USA: kpi_data_buffalo.zip KPI data from a CBRS network deployed in downtown Buffalo, NY, and kpi_data_elmira.csv KPI data from another CBRS network deployed in Elmira, NY. 
+The "kpi" folder houses datasets from two CBRS network deployments in New York, USA. It includes kpi_data_buffalo.zip, containing KPI data from a network in downtown Buffalo, NY, and kpi_data_elmira.csv, featuring data from another network in Elmira, NY.
+
 
 #### Buffalo KPI Dataset
 The kpi_data_buffalo.zip dataset contains KPI data, including Reference Signal Received Power (RSRP), Signal-to-Interference-plus-Noise Ratio (SINR), Reference Signal Received Quality (RSRQ), Received Signal Strength Indicator (RSSI) from a CBRS-based private LTE network deployed in the Fruitbelt neighborhood of Buffalo, NY. Data was collected at 32 static locations using Customer Premises Equipment (CPE) transceivers mounted on exterior walls of homes to communicate with the Base Station (BS). The BS has four directive antennas, and the CPEs that collect data have at most four antennas. The data collection spanned over two years, from June 20, 2022, to August 20, 2024, with an hourly sampling rate. Key features of the KPI dataset include:
@@ -30,7 +31,7 @@ The kpi_data_buffalo.zip dataset contains KPI data, including Reference Signal R
 - mean_AvgRsrp: average RSRP value calculated from the individual RSRP measurements
 - sinr0, sinr1, sinr2, sinr3: Signal-to-Interference-plus-Noise Ratio (SINR) for four antennas/receivers in the CPE device, measured in dB
 - mean_AvgSinr: average SINR value calculated from the individual SINR measurements
-- rsrq, rsrq1, rsrq2, rsrq3: Reference Signal Received Quality (RSRQ) for for four antennas/receivers in the CPE device, measured in dB
+- rsrq, rsrq1, rsrq2, rsrq3: Reference Signal Received Quality (RSRQ) for four antennas/receivers in the CPE device, measured in dB
 - mean_AvgRsrq: average RSRQ value calculated from the individual RSRQ measurements
 - rssi, rssi0, rssi1, rssi2, rssi3: Received Signal Strength Indicator (RSSI), for four antennas/receivers in the CPE device, measured in dBm
 - mean_AvgRssi: average RSSI value calculated from the individual RSSI measurements
@@ -38,7 +39,7 @@ The kpi_data_buffalo.zip dataset contains KPI data, including Reference Signal R
 - sensor_distance: distance between the CPE and the serving base station, measured in Kilometer (km)
 
 #### Elmira KPI Dataset
-The kpi_data_elmira.csv dataset contains Reference Signal Received Power (RSRP) data from a CBRS-based private LTE network deployed in the City of Elmira, NY. Data was collected at 12 static locations using CPE transceivers mounted on exterior walls of homes to communicate with the Base Station (BS). The data collection spanned over two years, from March 7, 2024, to November 11, 2024 (Continuing), with an hourly sampling rate. Key features of the KPI dataset include:
+The kpi_data_elmira.csv dataset contains Reference Signal Received Power (RSRP) data from a CBRS-based private LTE network deployed in Elmira, NY. Data was captured at 12 static locations using CPE transceivers mounted on the exterior walls of homes. The collection period spans from March 7, 2024, to November 11, 2024 (ongoing), with data recorded at an hourly rate. Key features of the KPI dataset include:
 
 - coll_time_round: data collection time
 - Date Time (RAW): Serial date number representing the exact moment of data collectio.
@@ -52,7 +53,7 @@ The kpi_data_elmira.csv dataset contains Reference Signal Received Power (RSRP) 
 - sensor_distance: The distance in km from the CPE antenna to a specified reference point. Example: 0.05685216 meters.
 
 ### Weather Dataset
-The weather dataset contains historical weather records obtained from [Oikolab](https://oikolab.com/) for the same location and time period (hourly resolution), which includes:
+The weather dataset contains historical weather records obtained from [Oikolab](https://oikolab.com/) for the network location and time period (hourly resolution). The "weather" includes separate files for each network location: weather_data_buffalo.csv for the Buffalo CBRS network, and weather_data_elmira.csv for the Elmira CBRS network. Both datasets include the same set of features, detailed below:
 
 - datetime (UTC): data collection time. Note, although the name says UTC, it has already been adjusted in EST time
 - coordinates (lat,lon): location for where the data has been collected
