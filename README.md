@@ -1,5 +1,5 @@
 # CBRS KPI and Weather Datasets
-The dataset has been introduced in the following papers. If you find this data helpful, please cite:
+**The dataset has been introduced in the following papers**. If you find this data helpful, please cite:
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]()]
