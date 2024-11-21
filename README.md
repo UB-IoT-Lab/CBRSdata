@@ -2,7 +2,7 @@
 **The dataset has been introduced in the following papers**. If you find this data helpful, please cite:
 
 
-> Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints. [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:-QJbu2Q3Sr4J:scholar.google.com/&output=citation&scisdr=ClGWNh2XEIT7to92XXY:AFWwaeYAAAAAZz5wRXZi5AVdyQVGgzsRqG2gCNs&scisig=AFWwaeYAAAAAZz5wRQcPbrrWgsrTK6JRU3mKAgQ&scisf=4&ct=citation&cd=-1&hl=en)]
+> Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints. [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:-QJbu2Q3Sr4J:scholar.google.com/&output=citation&scisdr=ClEdKe2AEIT7to6ANTE:AFWwaeYAAAAAZz-GLTFZaSusiNL3qp5pihNJXXk&scisig=AFWwaeYAAAAAZz-GLXbRIbxGFQpXXLGFOmlfI9s&scisf=4&ct=citation&cd=-1&hl=en)]
 
 > Devasenapathy, K., Dash, B. K., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173198458.82259958/v1)] [[Bibtex]()]
