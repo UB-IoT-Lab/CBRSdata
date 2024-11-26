@@ -2,10 +2,25 @@
 **The dataset has been introduced in the following papers**. If you find this data helpful, please cite:
 
 
-> Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints. [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:-QJbu2Q3Sr4J:scholar.google.com/&output=citation&scisdr=ClGWNhjeEMKa__wJs3A:AFWwaeYAAAAAZ0YPq3DH9PfUSy5aYLySClD4H6w&scisig=AFWwaeYAAAAAZ0YPqwwKE2CnL2D67F5qP41WrTY&scisf=4&ct=citation&cd=-1&hl=en)]
+> Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts. Authorea Preprints. [[arXiv](https://doi.org/10.36227/techrxiv.173144788.88858804/v1)] [[Bibtex]]
+BibTeX entry:
+```bibtex
+@article{dash2024propagation,
+  title={Propagation Analysis in the CBRS Spectrum: Path Loss Characterization and Environmental Impacts},
+  author={Dash, Biswajit Kumar and Caezza, Joseph A and Malandra, Filippo},
+  journal={Authorea Preprints},
+  publisher={Authorea}
+}
 
 > Devasenapathy, K., Dash, B. K., & Malandra, F. (2024). A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.173198458.82259958/v1)] [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:cqTw151J5lQJ:scholar.google.com/&output=citation&scisdr=ClGWNhjeEMKa__wWCzc:AFWwaeYAAAAAZ0YQEzcimVnGi2PkPpSgk9HcpY4&scisig=AFWwaeYAAAAAZ0YQE-2s5CCnaFcUsuiA9vW0TC0&scisf=4&ct=citation&cd=-1&hl=en)]
+BibTeX entry:
+```bibtex
+@article{devasenapathy2024machine,
+  title={A Machine Learning Framework for Weather-Based Signal Strength Prediction in Private LTE/5G Networks},
+  author={Devasenapathy, Kishorkumar and Dash, Biswajit Kumar and Malandra, Filippo}
+}
+```
 
 > Dash, B. K., Caezza, J. A., & Malandra, F. (2024). Experimental Analysis of the Impact of Weather on Signal Strength in the CBRS Frequency Spectrum. Authorea Preprints.
 [[arXiv](https://doi.org/10.36227/techrxiv.171710034.48434625/v1)] [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:5iF_uR9uw8cJ:scholar.google.com/&output=citation&scisdr=ClGWNhjeEMKa__wWNZM:AFWwaeYAAAAAZ0YQLZNUUlEJAwDpm6P0D22yE80&scisig=AFWwaeYAAAAAZ0YQLaV0ZPNEPisd1MQsKHCCTfQ&scisf=4&ct=citation&cd=-1&hl=en)]
